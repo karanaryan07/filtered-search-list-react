@@ -1,5 +1,6 @@
-#Filtered Search Bar in React
-Link : https://filteredsearchbar.herokuapp.com/
+# Filtered Search Bar in React
+
+## Link : https://filteredsearchbar.herokuapp.com/
 
 
 # Getting Started with Create React App
